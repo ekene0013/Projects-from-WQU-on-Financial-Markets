@@ -1,3 +1,1 @@
-# Projects-from-WQU-on-Financial-Markets
-
-I share projects from the Financial Markets class that I took at the World Quant University.
+This is a repository of my projects on Financial Markets from the Master's program in Data Science and Engineering at WQU.

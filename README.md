@@ -1,0 +1,1 @@
+# Projects-from-WQU-on-Financial-Markets
